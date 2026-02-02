@@ -50,19 +50,23 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 
 **Descrição técnica do laboratório:**
 
-> *(Preencher pelo laboratório)*
+> Unidade de pesquisa especializada em geologia estrutural, mapeamento tectônico e análise de recursos minerais no estado de Sergipe.
 
 **Principais linhas de pesquisa:**
 
-> *(Preencher)*
+- Mapeamento Geológico (1:25.000) e Petrografia.
+
+- Prospecção e viabilidade de Recursos Minerais.
+
+- Inventariação e conservação de Patrimônio Geológico.
 
 **Infraestrutura computacional:**
 
-> *(Preencher)*
+>Servidor de dados geoespaciais, estações de trabalho para processamento de imagens de satélite e SIG (ArcGIS/QGIS), e integração com equipamentos geodésicos de precisão.
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `___ . ___ . ___ . ___`
+* IP / Endpoint AWS: 3.227.88.172
 
 ---
 
