@@ -86,7 +86,7 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `___ . ___ . ___ . ___`
+* IP / Endpoint AWS: `18 .206.233 . 81`
 
 ---
 
