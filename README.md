@@ -141,7 +141,7 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 
 **Infraestrutura computacional:**
 
-> *(Preencher)*
+> O condomínio de laboratórios contará com uma infraestrutura computacional composta por servidor de uso compartilhado, equipamentos de rede, estações de trabalho, notebooks e computadores, assim garantindo suporte às atividades de pesquisa, ensino e desenvolvimento tecnológico.
 
 **Site do laboratório:**
 
