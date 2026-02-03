@@ -167,7 +167,7 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Infraestrutura computacional:**
 
-> O laboratório conta com infraestrutura "Enterprise" para suportar o tráfego pesado de imagens de satélite e ortofotos. O núcleo é composto por um servidor **Dell PowerEdge** (Xeon, 64GB RAM, RAID NVMe) rodando banco de dados **PostGIS** e containers **Docker**. A conectividade é garantida por Switch Core com portas **10Gbps (SFP+)** e rede sem fio **Wi-Fi 7 (BE15000)** de alta densidade, assegurando mobilidade e performance para modelagem SIG.
+> O laboratório conta com infraestrutura "Enterprise" para suportar o tráfego pesado de imagens de satélite e ortofotos. O núcleo é composto por um servidor rodando banco de dados **PostGIS** e containers **Docker**. A conectividade é garantida por Switch Core de alta densidade, assegurando mobilidade e performance para modelagem SIG.
 
 **Site do laboratório:**
 
