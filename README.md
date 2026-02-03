@@ -74,15 +74,27 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 
 **Descrição técnica do laboratório:**
 
-> *(Preencher pelo laboratório)*
+> O laboratório atua como um hub de convergência digital para a Engenharia Civil, operando dentro da VLAN 30 da rede CCET. Ele é projetado para suportar o fluxo de trabalho colaborativo em modelos de alta complexidade. A rede fornece isolamento de tráfego para que grandes sincronizações de arquivos (processo comum em plataformas como Revit Server ou BIM 360) não sofram gargalos de latência, permitindo que múltiplos projetistas trabalhem simultaneamente no mesmo modelo central federado.
 
 **Principais linhas de pesquisa:**
 
-> *(Preencher)*
+> - Modelagem da Informação da Construção (BIM): Gestão de ciclo de vida de edificações (4D, 5D e 6D) e interoperabilidade entre softwares de engenharia.
+
+> - Gêmeos Digitais (Digital Twins): Criação de réplicas virtuais de infraestruturas físicas integradas a sensores IoT para monitoramento em tempo real.
+
+> - Inteligência Artificial Aplicada: Otimização de cronogramas de obras e análise preditiva de patologias em estruturas através de algoritmos de visão computacional.
+
+> - Simulação de Eficiência Energética: Análise de desempenho térmico e lumínico de materiais e projetos arquitetônicos.
 
 **Infraestrutura computacional:**
 
-> *(Preencher)*
+> - Estações de Trabalho (VLAN 30): PCs de alto desempenho equipados com GPUs dedicadas para renderização em tempo real e processamento de modelos paramétricos (ex: nó Lab_IA_PVB8448).
+
+> - Conectividade: Link dedicado ao Switch Core com priorização de pacotes para o segmento de processamento gráfico pesado.
+
+> - Armazenamento Centralizado: Acesso direto via rede interna ao Central_Storage_NAS (VLAN 100) para backup de arquivos de nuvem de pontos (Point Cloud) e repositórios de projetos legados.
+
+> - Segurança: Proteção por firewall de borda para colaboração externa segura com parceiros e escritórios remotos de engenharia.
 
 **Site do laboratório:**
 
