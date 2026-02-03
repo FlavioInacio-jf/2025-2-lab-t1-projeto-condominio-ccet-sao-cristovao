@@ -29,19 +29,19 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 ### 1️⃣ Gestão da Informação e Suporte à Decisão – GISD
 
 **Descrição técnica do laboratório:**
-O Laboratório GISD é um ambiente de pesquisa focado na investigação e desenvolvimento de metodologias para coleta, processamento, armazenamento seguro e análise de grandes volumes de dados (Big Data). O objetivo central é aplicar técnicas computacionais e algoritmos avançados para transformar dados brutos em conhecimento estratégico, otimizando processos complexos de tomada de decisão e garantindo a governança da informação.
+- O Laboratório GISD é um ambiente de pesquisa focado na investigação e desenvolvimento de metodologias para coleta, processamento, armazenamento seguro e análise de grandes volumes de dados (Big Data). O objetivo central é aplicar técnicas computacionais e algoritmos avançados para transformar dados brutos em conhecimento estratégico, otimizando processos complexos de tomada de decisão e garantindo a governança da informação.
 
 **Principais linhas de pesquisa:**
 
-Sistemas de Apoio à Decisão (SAD) e Métodos Multicritério.
+- Sistemas de Apoio à Decisão (SAD) e Métodos Multicritério.
 
-Governança de Dados e Adequação à LGPD (Lei Geral de Proteção de Dados).
+- Governança de Dados e Adequação à LGPD (Lei Geral de Proteção de Dados).
 
 **Infraestrutura computacional:**
 
-Serviços: Ambiente virtualizado de alta performance (no Cluster do Condomínio) com orquestração via Docker.
+- Serviços: Ambiente virtualizado de alta performance (no Cluster do Condomínio) com orquestração via Docker.
 
-Banco de Dados: Servidor PostgreSQL dedicado para persistência de dados relacionais e suporte a queries analíticas complexas.
+- Banco de Dados: Servidor PostgreSQL dedicado para persistência de dados relacionais e suporte a queries analíticas complexas.
 
 Segurança: Segmentação de rede via VLANs e controle de acesso rígido para proteção de dados sensíveis de pesquisa.
 **Site do laboratório:**
