@@ -70,7 +70,7 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: 3.227.88.172
+* IP / Endpoint AWS: `3.227.88.172`
 
 ---
 
@@ -102,7 +102,7 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `18 .206.233 . 81`
+* IP / Endpoint AWS: `18.206.233.81`
 
 ---
 
@@ -128,8 +128,7 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Site do laboratório:**
 
-
-* IP / Endpoint AWS: 54.234.4.227
+* IP / Endpoint AWS: `54.234.4.227`
 
 ---
 
@@ -157,19 +156,22 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Descrição técnica do laboratório:**
 
-> *(Preencher pelo laboratório)*
+> O GEOPLAN (Grupo de Pesquisa em Geoecologia e Planejamento Territorial), certificado pelo CNPq desde 2006, dedica-se à investigação da dinâmica biofísica de ambientes naturais e modificados. O laboratório atua como um centro avançado de processamento de geoinformação, integrando dados ambientais massivos para subsidiar o planejamento territorial, gestão de bacias hidrográficas e políticas públicas de saúde e meio ambiente.
 
 **Principais linhas de pesquisa:**
 
-> *(Preencher)*
+> - **Geografia da Saúde:** Mapeamento de riscos e condicionantes socioambientais (Esquistossomose/Dengue) na Grande Aracaju (ex: Projetos PVD5115 e PVD3270).
+> - **Planejamento Territorial:** Zoneamento de Unidades de Conservação e mapeamento de uso do solo (ex: RPPN em Glória/SE - PVJ6561).
+> - **Geobiodiversidade:** Análise de serviços ecossistêmicos e patrimônio hidrológico.
+> - **Geotecnologias:** Uso de WebGIS e bancos de dados espaciais para gestão ambiental e cooperação internacional (UFS/Coimbra).
 
 **Infraestrutura computacional:**
 
-> *(Preencher)*
+> O laboratório conta com infraestrutura "Enterprise" para suportar o tráfego pesado de imagens de satélite e ortofotos. O núcleo é composto por um servidor **Dell PowerEdge** (Xeon, 64GB RAM, RAID NVMe) rodando banco de dados **PostGIS** e containers **Docker**. A conectividade é garantida por Switch Core com portas **10Gbps (SFP+)** e rede sem fio **Wi-Fi 7 (BE15000)** de alta densidade, assegurando mobilidade e performance para modelagem SIG.
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `___ . ___ . ___ . ___`
+* IP / Endpoint AWS: `3.238.250.177`
 
 ---
 
@@ -182,7 +184,6 @@ Este repositório armazena os seguintes materiais:
 
 * 🗺️ **Documento PDF – Mapa Físico**
   Planta física do condomínio de laboratórios, incluindo:
-
   * Sala de servidores;
   * Laboratórios individuais;
   * Cabeamento estruturado;
@@ -190,7 +191,6 @@ Este repositório armazena os seguintes materiais:
 
 * 🧾 **Lista de dispositivos**
   Relação de equipamentos utilizados no condomínio, como:
-
   * Switches (L2/L3);
   * Access Points;
   * Servidores;
